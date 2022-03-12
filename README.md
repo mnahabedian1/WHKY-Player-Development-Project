@@ -14,6 +14,4 @@ Contains a pdf with the paper outlining the process to build the SARAH models.
 Contains the python code to manipulate the data, train the models and obtain the resulting habits for the player development matrix.
 
 ### SARAH Applications
-[Tableau dashboard](https://public.tableau.com/app/profile/mikael.nahabedian1483/viz/PlayerDevProject-PublicVersion/Dashboard32) with the player development matrix for the 262 skaters in the data set: 
-
-The folder also contains 2 case studies outlining development plans for Ashton Bell and Abby Roque based on the results of the SARAH models.
+[Tableau dashboard](https://public.tableau.com/app/profile/mikael.nahabedian1483/viz/PlayerDevProject-PublicVersion/Dashboard32) with the player development matrix for the 262 skaters in the data set.
