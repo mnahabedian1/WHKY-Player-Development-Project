@@ -7,7 +7,8 @@ The project serves a two-fold purpose: to reduce the time that scouts and coache
 
 Combining the dataset of players' habits with a set of players' microstats (entries via pass/stickhandling, exits via stickhandling/pass, accurate/inaccurate passes, etc.), we developed a random forest classification model to accurately predict if a player possesses a certain habit based on their set of microstats. We also used random forest regression on our data to see how habits impacted each specific microstat. Combining this with an estimate of how frequently players used each habit, we created a Belfry performance matrix for a player's habits based entirely on their microstats. To help coaches, scouts, and anyone else access & use these tools, we've also created an interactive visualization for these models using our training dataset of national women's hockey teams in the last Worlds and Olympics.
 
-### Final Paper
+### SARAH_paper.pdf
 Contains a pdf with the paper outlining the process to build the SARAH models.
 
-### Code
+### player_dev_code.py
+Contains the python code to manipulate the data, train the models and obtain the resulting habits for the player development matrix.
