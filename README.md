@@ -11,7 +11,7 @@ Combining the dataset of players' habits with a set of players' microstats (entr
 Contains a pdf with the paper outlining the process to build the SARAH models.
 
 ### player_dev_code.py
-Contains the python code to manipulate the data, train the models and obtain the resulting habits for the player development matrix.
+Contains the python code used to manipulate the data, train the models and obtain the resulting habits for the player development matrix.
 
 ### SARAH Applications
 [Tableau dashboard](https://public.tableau.com/app/profile/mikael.nahabedian1483/viz/PlayerDevProject-PublicVersion/Dashboard32) with the player development matrix for the 262 skaters in the data set.
