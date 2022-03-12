@@ -5,7 +5,7 @@ import numpy as np
 
 # for SARAH-1
 from sklearn.ensemble import RandomForestRegressor
-randomforest = RandomForestRegressor(random_state=0, n_estimators=1000)
+randomforest = RandomForestRegressor(random_state=0, n_estimators=10000)
 from sklearn.feature_selection import SelectFromModel
 
 # for SARAH-2
@@ -13,7 +13,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-randomforest2 = RandomForestClassifier(random_state=0, n_estimators=1000)
+randomforest2 = RandomForestClassifier(random_state=0, n_estimators=10000)
 
 # -- useful functions
 # weighted average fuctions
